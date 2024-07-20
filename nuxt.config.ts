@@ -47,6 +47,12 @@ export default defineNuxtConfig({
     },
   },
 
+  nitro: {
+    prerender: {
+      routes: ['/', '/adopt'],
+    },
+  },
+
   modules: [
     '@pinegrow/nuxt-module',
     '@unocss/nuxt',
@@ -93,7 +99,7 @@ export default defineNuxtConfig({
     vue: {
       template: {
         transformAssetUrls: {
-          NuxtImg: ['src'],
+          // NuxtImg: ['src'],
           OgImage: ['image'],
         },
       },
