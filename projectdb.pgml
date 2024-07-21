@@ -21,7 +21,7 @@
                 <dmcolor key="info" color="#0288d1" shade-50="#ebf1f9" shade-100="#d0dff2" shade-200="#b4ccec" shade-300="#96bbe5" shade-400="#76a9df" shade-500="#5098d8" shade-600="#0288d1" shade-700="#027cbf" shade-800="#0271ae" shade-900="#02669d" shade-950="#015b8c" shade-DEFAULT="#5098d8"/>
             </dmdesignskill>
             <dmdesignskill skill="fonts" family_1="Titillium Web" family_2="Fraunces"></dmdesignskill>
-            <dmdesignskill skill="background" image_for_colors advanced="true" filter_blur="0" filter_brightness="100" filter_contrast="100" filter_grayscale="0" filter_hue-rotate="0" filter_invert="0" filter_opacity="100" filter_saturate="100" filter_sepia="0" image="https://images.unsplash.com/photo-1573865526739-10659fec78a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyMDkyMnwwfDF8c2VhcmNofDJ8fGNhdHxlbnwwfHx8fDE2ODcxNzk3MjF8MA&ixlib=rb-4.0.3&q=80&w=1080" selector=".poster" keyword="cat or dog"></dmdesignskill>
+            <dmdesignskill skill="background" image_for_colors advanced="true" filter_blur="0" filter_brightness="100" filter_contrast="100" filter_grayscale="0" filter_hue-rotate="0" filter_invert="0" filter_opacity="100" filter_saturate="100" filter_sepia="0" image="https://images.unsplash.com/photo-1573865526739-10659fec78a5" selector=".poster" keyword="cat or dog"></dmdesignskill>
         </dmdesign>
         <dmdesign active>
             <dmdesignskill skill="tw.colors" harmony="">
@@ -43,7 +43,7 @@
                 <dmcolor key="info" color="#0288d1" shade-50="#ebf1f9" shade-100="#d0dff2" shade-200="#b4ccec" shade-300="#96bbe5" shade-400="#76a9df" shade-500="#5098d8" shade-600="#0288d1" shade-700="#027cbf" shade-800="#0271ae" shade-900="#02669d" shade-950="#015b8c" shade-DEFAULT="#5098d8"/>
             </dmdesignskill>
             <dmdesignskill skill="fonts" family_1="Proza Libre" family_2="Sora"></dmdesignskill>
-            <dmdesignskill skill="background" image_for_colors advanced="true" filter_blur="0" filter_brightness="100" filter_contrast="100" filter_grayscale="0" filter_hue-rotate="0" filter_invert="0" filter_opacity="100" filter_saturate="100" filter_sepia="0" image="https://images.unsplash.com/photo-1534361960057-19889db9621e?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDMwfHxkb2d8ZW58MHx8fHwxNjgzMjc1MDI1&ixlib=rb-4.0.3q=85&fm=jpg&crop=faces&cs=srgb&w=1200&h=1200&fit=crop" selector=".poster" keyword="cat or dog"></dmdesignskill>
+            <dmdesignskill skill="background" image_for_colors advanced="true" filter_blur="0" filter_brightness="100" filter_contrast="100" filter_grayscale="0" filter_hue-rotate="0" filter_invert="0" filter_opacity="100" filter_saturate="100" filter_sepia="0" image="https://images.unsplash.com/photo-1534361960057-19889db9621e" selector=".poster" keyword="cat or dog"></dmdesignskill>
         </dmdesign>
     </dmdesigns>
     <dmlocked tw-colors-gray="true" tw-colors-red="true" tw-colors-yellow="true" tw-colors-green="true" tw-colors-blue="true" tw-colors-indigo="true" tw-colors-purple="true" tw-colors-pink="true" tw-colors-error="true" tw-colors-neutral="true" tw-colors-success="true" tw-colors-warning="true" tw-colors-info="true"></dmlocked>

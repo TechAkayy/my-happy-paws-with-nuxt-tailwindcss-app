@@ -23,6 +23,7 @@
         img,
         /* options */
         {
+          // provider: 'unsplash',
           /* If using local images instead of unsplash url, enable netlify provider */
           // provider:
           //     process.env.NODE_ENV === 'production'

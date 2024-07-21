@@ -47,11 +47,11 @@ export default defineNuxtConfig({
     },
   },
 
-  nitro: {
-    prerender: {
-      routes: ['/', '/adopt'],
-    },
-  },
+  // nitro: {
+  //   prerender: {
+  //     routes: ['/', '/adopt'],
+  //   },
+  // },
 
   modules: [
     '@pinegrow/nuxt-module',
@@ -122,7 +122,7 @@ export default defineNuxtConfig({
     //   xxl: 1536,
     //   '2xl': 1536,
     // },
-    provider: 'ipx',
+    // provider: 'ipx',
     presets: {
       avatar: {
         modifiers: {
@@ -132,9 +132,10 @@ export default defineNuxtConfig({
         },
       },
     },
-    netlify: {
-      baseURL: url,
-    },
+    // netlify: {
+    //   baseURL: url,
+    // },
+    // provider: 'unsplash',
     domains: [
       'images.unsplash.com',
       'fakestoreapi.com',
