@@ -1,6 +1,10 @@
 [build]
-command = "npm run build"
+command = "npm run generate"
 publish = "dist"
 
 [build.environment]
 NODE_VERSION = "20.14.0"
+
+[images]
+# https://github.com/nuxt/image/issues/1330
+remote_images = ["https:\\/\\/images.unsplash.com\\/.*"]
